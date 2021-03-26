@@ -1,0 +1,6 @@
+module Pods_DigitalWalletApp {
+  umbrella header "Pods-DigitalWalletApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

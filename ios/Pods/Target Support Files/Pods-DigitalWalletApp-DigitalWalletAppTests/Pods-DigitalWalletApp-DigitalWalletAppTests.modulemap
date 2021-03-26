@@ -1,0 +1,6 @@
+module Pods_DigitalWalletApp_DigitalWalletAppTests {
+  umbrella header "Pods-DigitalWalletApp-DigitalWalletAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
